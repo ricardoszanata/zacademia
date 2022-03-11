@@ -1,0 +1,19 @@
+{
+    "name": "z/academia",
+    "license": "ZST",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ricardo da Silva Zanata",
+            "email": "ricardoszanata@gmail.com"
+        },
+        {
+            "name": "Daniel Zanata",
+            "email": "zanatazan@gmail.com"
+        }
+    ]
+}
